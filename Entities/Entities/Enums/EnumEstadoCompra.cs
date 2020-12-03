@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Entities.Entities.Enums
 {
-    public class EnumEstadoCompra
+    public enum EnumEstadoCompra
     {
-        /*
+        
         Produto_Carrinho = 1,
         Produto_Comprado = 2,
         Produto_Em_preparação = 3,
@@ -14,6 +14,6 @@ namespace Entities.Entities.Enums
         Produto_Entregue = 5,
         Produto_Recebido = 6,
         Produto_Cancelado = 7
-        */
+        
     }
 }

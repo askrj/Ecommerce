@@ -98,3 +98,5 @@ C:\Projetos\ecommerceDDD\Web_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensi
 C:\Projetos\ecommerceDDD\Web_Ecommerce\obj\Debug\netcoreapp3.1\Web_Ecommerce.csproj.CoreCompileInputs.cache
 C:\Projetos\ecommerceDDD\Web_Ecommerce\obj\Debug\netcoreapp3.1\Web_Ecommerce.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\ecommerceDDD\Web_Ecommerce\obj\Debug\netcoreapp3.1\Web_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\ecommerceDDD\Web_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Projetos\ecommerceDDD\Web_Ecommerce\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll

@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Entities.Entities.Enums
 {
-    public class EnumTipoLog
+    public enum EnumTipoLog
     {
-        /*
+        
         Erro = 0,
         Informativo = 1
-        */
+        
     }
 }

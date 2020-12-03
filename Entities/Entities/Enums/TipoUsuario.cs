@@ -4,11 +4,9 @@ using System.Text;
 
 namespace Entities.Entities.Enums
 {
-    public class TipoUsuario
+    public enum TipoUsuario    
     {
-        /*
         Administrador = 1,
         Comum = 2
-        */
     }
 }

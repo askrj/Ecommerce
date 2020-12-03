@@ -11,7 +11,7 @@ namespace Entities.Entities
 {
     public class ApplicationUser : IdentityUser
     {
-        /*
+        
         [Column("USR_CPF")]
         [MaxLength(50)]
         [Display(Name = "CPF")]
@@ -58,6 +58,6 @@ namespace Entities.Entities
         [Column("USR_TIPO")]
         [Display(Name = "Tipo")]
         public TipoUsuario? Tipo { get; set; }
-        */
+        
     }
 }
